@@ -1,0 +1,28 @@
+name: Rachman Blake
+favicon: null
+layout_spectrum: 0.38623544410802424
+typography_spectrum: 0.8384620004799217
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.45352044817991555
+  lightness: 0.9523201528936625
+  saturation: 0.3873693614732474
+  rhythmicContrast: 0.35593979246914387
+purpose: []
